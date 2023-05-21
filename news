@@ -12,50 +12,57 @@
 <body>
     <div class="titulo">
         <div class="logo">
-            <img src="img/OIP-removebg-preview.png" alt="" class="logo">
+            <img src="img/images-removebg-preview.png" alt="" class="logo">
         </div>
-        <h1 class="titulo-nome">GAME NEWS</h1>
+        <h2 class="titulo-nome">GAME NEWS</h2>
         <div class="menu">
             <ul class="menu-lista">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Serviços</a></li>
-                <li><a href="#">Suporte</a></li>
-                <li><a href="#">Sobre</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a class="a" href="#">Home</a></li>
+                <li><a class="a" href="#">Serviços</a></li>
+                <li><a class="a" href="#">Suporte</a></li>
+                <li><a class="a" href="#">Sobre</a></li>
+                <li><a class="a" href="#">Contato</a></li>
             </ul>
         </div>
     </div>
-    <div class="img-banner"></div>
+    <div class="img-banner">
+        <div class="banner-text">
+            <h1 >APENAS OS MELHORES <BR> DO <BR> MUNDO GAMER</h1>
+        </div>
+        <img class="img"src="https://wallpaperaccess.com/full/2141660.jpg" alt="">
+    </div>
     <div class="content">
         <div class="content-text">
-            <h2>text</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit blanditiis aspernatur animi! Adipisci ut nulla illo repellendus, nemo consectetur blanditiis sed ipsam quia sit quaerat? Similique aut porro modi provident!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!</p>
+            <h2>LOREM IPSUM FAZ ENTREVISTA E REVELA ALGO CHOCANTE SOBRE SEU NOVO JOGO!</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit blanditiis aspernatur animi! Adipisci ut nulla illo repellendus, nemo consectetur blanditiis sed ipsam quia sit quaerat? Similique aut porro modi provident!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora. <BR> Quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!</p>
         </div>
         <div class="content-img">
-            <img src="" alt="">
+            <img class="img2" src="https://ih0.redbubble.net/image.215327911.6053/flat,800x800,075,f.jpg" alt="" >
         </div>
         <div class="content-img">
-            <img src="" alt="">
+            <img class="img2" src="https://classic.exame.com/wp-content/uploads/2022/01/1642805771960029.jpg?quality=70&strip=info&w=1020" alt="">
         </div>
         <div class="content-text">
-            <h2>text</h2>
+            <h2>BILL GATES E ELON MUSK CONFIRMAM CASAMENTO E PUBLICO VAI A LOUCURA!</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit blanditiis aspernatur animi! Adipisci ut nulla illo repellendus, nemo consectetur blanditiis sed ipsam quia sit quaerat? Similique aut porro modi provident!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta temporibus tempora, quae quidem recusandae aperiam impedit quod tenetur dolorem placeat hic neque commodi illum repellendus deleniti ab pariatur dolor aut!</p>
         </div>
     </div>
     <div class="confira">
         <div class="noticias">
-            <p>12</p>
+            <img class="img3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PLo3qOh5H4m9gMkgZRl0VR38iQAzpHwRiw&usqp=CAU" alt="">
         </div>
         <div class="noticias">
-            <p>12</p>
+            <img class="img3"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SmZ22XVhQG017vMku4HO3GKVkRq5QKagSw&usqp=CAU" alt="">
         </div>
         <div class="noticias">
-            <p>12</p>
+            <img class="img3" src="https://pbs.twimg.com/media/DdGP1p2XkAgU-RA.jpg" alt="">
         </div>
     </div>
+<div class="footer">
+    <footer>@GAME_NEWS - Todos os direitos Reservados - 2023</footer>
+</div>
 </body>
 </html>
-
 
 ----CSS----
 
@@ -63,19 +70,24 @@
     outline: 1px dashed red;
 }
  */
-* {
+ * {
     list-style: none;
     text-decoration: none;
+
+}
+* h1{
+    font-size: 80px;
+    text-shadow: 10px 10px 3px #000000;
 }
 
-/* body {
-    background-color: rgb(252, 252, 252);
-} */
+body {
+    background-color: rgb(221, 221, 221);
+}
 
 .titulo {
 
     margin: -2% -0.6% 0% -0.6%;
-    background-color: #ebd5b7;
+    background-color: #238cc1;
 }
 
 .titulo-nome {
@@ -87,7 +99,7 @@
     height: 80px;
 }
 
-.menu .menu-lista {
+.menu-lista {
     margin-top: -98px;
     display: flex;
     justify-content: end;
@@ -95,7 +107,7 @@
 
 }
 
-.menu a {
+.a {
     color: #000000;
     text-decoration: none;
     display: block;
@@ -104,16 +116,26 @@
     font-size: 10px;
     font-weight: 700;
     letter-spacing: 0.2em;
-}
-
-.menu>.menu-lista>li>a {
     padding: 27px;
     margin: 10.99px 20px 10.99px 0px;
 }
+
+
+.banner-text{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: white
+}
+
 .img-banner{
-    background-color: rgb(226, 226, 226);
     height: 405px;
     margin: -1.2% -0.6% 0% -0.6%;
+}
+
+.img{
+    height: 405px;
+    width: 100%;
 }
 .content {
     display: flex;
@@ -132,10 +154,15 @@
 }
 
 .content-img{
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(155, 155, 155);
     width: 600px;
     height: 450px;
     margin: 10px;
+}
+.img2{
+    width: 600px;
+    height: 450px;
+    box-shadow: 4px 4px 4px  rgb(73, 73, 73);
 }
 
 .confira{
@@ -148,6 +175,17 @@
 .noticias{
     height: 250px;
     width: 380px;
-    background-color:  rgb(226, 226, 226);
-    margin: 10px 10px 0px 10px;
+    margin: 10px 10px 20px 10px;
+} 
+.img3{
+    height: 250px;
+    width: 380px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #238cc1;
+    height: 20px;
+    margin: 0% -0.6% -0.6% -0.6%;
+    
 }
